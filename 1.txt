@@ -2,5 +2,13 @@ this is python developer
 
   class register:
     def register()
+<<<<<<< Updated upstream
 storyb 22
 nurtbynufbynusgynu
+=======
+
+story 21
+vtbuafuifuio
+dvgbhnjnim
+rtdcvubzyiunocvbnircvtyuabiun
+
