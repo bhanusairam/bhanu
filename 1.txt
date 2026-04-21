@@ -2,3 +2,5 @@ this is python developer
 
   class register:
     def register()
+storyb 22
+nurtbynufbynusgynu
